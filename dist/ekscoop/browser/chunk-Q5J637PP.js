@@ -1,0 +1,1 @@
+import{$b as r,Ta as m,V as t,rc as n,sc as e}from"./chunk-MOB3ZVT5.js";var i=class o{static \u0275fac=function(p){return new(p||o)};static \u0275mod=m({type:o});static \u0275inj=t({imports:[r,e,n]})};export{i as HomepageModule};
